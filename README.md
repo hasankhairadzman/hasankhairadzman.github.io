@@ -1,2 +1,10 @@
 # hasankhair.github.io
-![Welcome Animation](assets/welcome.gif)
+╔══════════════════════════════════════╗
+║                                      ║
+║       👋 W E L C O M E               ║
+║                                      ║
+║       🚀 Hasan's Project              ║
+║                                      ║
+║       Building something amazing...  ║
+║                                      ║
+╚══════════════════════════════════════╝
